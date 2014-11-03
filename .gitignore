@@ -1,5 +1,7 @@
 .gradle/
 gradle/
 build/
-out/a
-target/a
+out/
+target/
+.idea/
+.lazybones/
